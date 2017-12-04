@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The creation of this site is and will always be, for learning/practice purposes.
   I am currently aiming to obtain a Bioinformatics degree, all while balancing my health.
   Myasthenia Gravis has made my life a rollercoaster of feelings, change, and acceptance in all aspects of life.
-  Personally, I believe that my best companions in this journey is my immediate family, and my beloved pets.
+  Personally, I believe that my best companions in this journey are my immediate family, a few close friends, and my beloved pets.
   For the Latter, I have two lovely siberian huskies and a tiny chihuahua that bring happiness and comfort every single day and I hope to be able to share some aspects of my life on this space.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
